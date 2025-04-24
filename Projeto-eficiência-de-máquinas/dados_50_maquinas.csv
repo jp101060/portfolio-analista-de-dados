@@ -1,0 +1,51 @@
+Máquina;Tempo de operação (h);Consumo de energia (kWh);Produção;Eficiência (Peças/kWh)
+Exaustor 1;160;175;460;2,6286
+Turbina 2;82;194;750;3,866
+Moinho Vertical 3;127;180;718;3,9889
+Motor Elétrico 4;141;176;657;3,733
+Moinho Vertical 5;133;142;482;3,3944
+Compressor de Parafuso 6;120;211;462;2,1896
+Exaustor 7;147;211;633;3,0
+Moinho de Martelos 8;133;217;606;2,7926
+Compressor de Parafuso 9;115;211;412;1,9526
+Moinho Vertical 10;125;165;570;3,4545
+Bomba de Pistão 11;96;138;509;3,6884
+Turbina 12;159;202;582;2,8812
+Compressor de Parafuso 13;121;132;444;3,3636
+Compressor de Parafuso 14;126;192;441;2,2969
+Motor Elétrico 15;83;143;516;3,6084
+Turbina 16;89;190;701;3,6895
+Gerador 17;97;164;596;3,6341
+Exaustor 18;148;180;742;4,1222
+Gerador 19;118;175;707;4,04
+Moinho Vertical 20;117;204;433;2,1225
+Bomba de Pistão 21;129;219;583;2,6621
+Gerador 22;89;168;501;2,9821
+Motor Elétrico 23;149;157;507;3,2293
+Bomba de Pistão 24;138;158;719;4,5506
+Bomba de Pistão 25;96;182;522;2,8681
+Motor Elétrico 26;137;124;632;5,0968
+Bomba Centrífuga 27;114;142;627;4,4155
+Moinho Vertical 28;138;148;720;4,8649
+Gerador 29;108;215;530;2,4651
+Exaustor 30;155;189;494;2,6138
+Moinho Vertical 31;153;137;552;4,0292
+Compressor de Parafuso 32;159;190;733;3,8579
+Bomba de Pistão 33;128;166;629;3,7892
+Moinho de Martelos 34;153;209;513;2,4545
+Moinho Vertical 35;105;157;661;4,2102
+Gerador 36;85;137;554;4,0438
+Moinho Vertical 37;80;171;424;2,4795
+Exaustor 38;147;193;691;3,5803
+Compressor 39;133;213;479;2,2488
+Moinho de Martelos 40;104;155;431;2,7806
+Exaustor 41;141;172;673;3,9128
+Moinho de Martelos 42;144;195;605;3,1026
+Bomba de Pistão 43;128;172;475;2,7616
+Exaustor 44;99;212;424;2,0
+Bomba Centrífuga 45;131;155;686;4,4258
+Moinho de Martelos 46;86;180;678;3,7667
+Gerador 47;160;164;658;4,0122
+Exaustor 48;94;189;478;2,5291
+Moinho de Martelos 49;80;125;641;5,128
+Compressor de Parafuso 50;99;143;570;3,986
