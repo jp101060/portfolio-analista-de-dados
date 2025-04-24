@@ -17,7 +17,7 @@ A ideia foi analisar qual máquina entrega mais produção consumindo menos ener
 - **Python** → Para gerar e formatar os dados.
 - **Pandas & NumPy** → Para manipulação dos dados.
 - **Power BI** → Para visualização e análise.
-- **ChatGPT** → Apoio para tirar dúvidas e melhorar partes do código, mas toda a lógica e estrutura foram feitas por mim.
+- **ChatGPT** → Apoio para tirar dúvidas, melhorar partes do código e formatar a estética desta documentação, mas toda a lógica e estrutura foram feitas por mim.
 
 ---
 
