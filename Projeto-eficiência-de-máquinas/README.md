@@ -1,50 +1,70 @@
-# 🔧 Análise de Eficiência Energética de Máquinas Industriais
+# 🔍 Análise de Eficiência Energética de Máquinas Industriais
 
-## 🎯 Objetivo
-Este projeto com finalidade de treinamento visa analisar a eficiência energética de 50 máquinas industriais reais de diferentes tipos, utilizando Python e Power BI. A análise busca identificar oportunidades de otimização no consumo de energia e na produtividade, contribuindo para uma operação mais sustentável e econômica. 
+> Primeiro projeto prático da minha jornada de estudos em análise de dados. Aqui eu juntei conhecimentos de Engenharia Mecânica com Python e Power BI para investigar a eficiência de 50 máquinas industriais.
 
-## 🛠️ Ferramentas Utilizadas
-- **Python (Pandas)**: Geração e pré-processamento do dataset
-- **Power BI**: Análise visual, segmentação de dados e insights
-- **Power Query**: Criação de colunas derivadas e formatação de dados
-- **ChatGPT** : Auxílio na formatação das documentações e nas formulações de ideias.
+---
 
-## 📊 Dataset
-Cada máquina possui os seguintes dados:
-- Tipo e nome da máquina (ex: Compressor 1)
-- Tempo de operação (em horas)
-- Consumo de energia (em kWh)
-- Produção (em peças)
-- Eficiência = Produção / Consumo, com 4 casas decimais
+## 🚀 Sobre o Projeto
 
-Os dados foram gerados com simulações realistas usando tipos comuns em ambientes industriais.
+Sempre curti entender como as coisas funcionam e como dá pra melhorar o desempenho delas. Nesse projeto, eu simulei dados de produção, consumo de energia e operação de diferentes tipos de máquinas usadas na indústria — como turbinas, bombas, compressores, moinhos e mais.
 
-## 🔍 Principais Insights
+A ideia foi analisar qual máquina entrega mais produção consumindo menos energia, ou seja, identificar quais são mais eficientes.
 
-1. **🏆 Destaques de Eficiência**
-   - *Moinho de Martelos 49* foi a mais eficiente, com **5,128 peças/kWh**
-   - Outros destaques:
-     - *Motor Elétrico 26* – **5,0968 peças/kWh**
-     - *Moinho Vertical 28* – **4,8649 peças/kWh**
-     - *Bomba Centrífuga 45* – **4,4258 peças/kWh**
+---
 
-2. **⚠️ Baixa Eficiência**
-   - *Compressor de Parafuso 9* – **1,9526 peças/kWh**
-   - *Exaustor 44* – **2,0000 peças/kWh**
-   - Máquinas candidatas à manutenção ou substituição.
+## 🧰 Ferramentas Utilizadas
 
-3. **⚙️ Desempenho por Tipo**
-   - *Moinhos Verticais* apresentaram desempenho consistente, aparecendo frequentemente entre os mais eficientes.
+- **Python** → Para gerar e formatar os dados.
+- **Pandas & NumPy** → Para manipulação dos dados.
+- **Power BI** → Para visualização e análise.
+- **ChatGPT** → Apoio para tirar dúvidas e melhorar partes do código, mas toda a lógica e estrutura foram feitas por mim.
 
-4. **⏱️ Tempo vs Eficiência**
-   - Tempo de operação alto não garante eficiência. Ex: *Motor Elétrico 26* teve alta eficiência mesmo com operação média (137h).
+---
 
-5. **💡 Oportunidades**
-   - Máquinas com eficiência < 2,5 devem ser analisadas.
-   - Padronizar operação com base nas mais eficientes pode gerar **redução de custos** e **aumento de produtividade**.
+## 📊 Visualizações Criadas no Power BI
 
-## 📌 Conclusão
-A análise mostrou como dados industriais podem ser aplicados de forma prática à engenharia para decisões mais inteligentes e sustentáveis. A análise apesar de simples mostram que tipo de embasamento é possível ter na tomada de decisão para o encaminhamento para a manutenção e revisão do maquinário.
+- **Gráfico de Eficiência por Máquina** → Identifica quais máquinas têm melhor relação produção/energia.
+- **Ranking das Top 5 Mais e Menos Eficientes** → Pra destacar oportunidades de melhoria.
+- **Distribuição por Tipo de Máquina** → Ajuda a ver tendências dentro das categorias.
+- **Consumo vs Produção** → Analisa o quanto cada máquina produz em relação ao que consome.
+- **Filtro interativo por Tipo de Máquina** → Permite segmentar as análises com mais profundidade.
+
+---
+
+## 📈 Resultados e Insights
+
+- Algumas máquinas como **Moinho de Martelos 49** e **Motor Elétrico 26** apresentaram eficiência acima de 5 peças/kWh — o que é excelente.
+- Equipamentos como **Compressor de Parafuso 9** e **Exaustor 44** tiveram eficiência abaixo de 2, o que acende alerta para revisões ou substituições.
+- Turbinas e motores elétricos se destacaram positivamente em eficiência geral.
+- Máquinas com alto consumo e baixa produção são potenciais alvos para manutenção preventiva.
+
+---
+
+## 📚 Aprendizados Pessoais
+
+- Aprendi a gerar dados simulados com lógica coerente em Python.
+- Resolvi problemas com separadores decimais para deixar os dados legíveis no Power BI.
+- Usei a engenharia como base para analisar e pensar em soluções de otimização.
+- Vi na prática como a análise de dados pode ajudar a tomar decisões técnicas e econômicas melhores.
+
+---
+
+## 🧠 Próximos Passos
+
+- Repetir esse tipo de análise com dados reais assim que possível.
+- Aplicar esse modelo para diferentes setores da indústria.
+- Evoluir com Machine Learning para prever falhas ou sugerir otimizações automáticas.
+
+---
+
+## ✉️ Contato
+
+Se quiser trocar ideia ou tiver alguma sugestão, estou por aqui!  
+📧 [Seu e-mail ou LinkedIn]  
+📍 Salvador - BA | Estudante de Engenharia Mecânica e futuro analista de dados 😄
+
+---
+
 
 ## 🔗 Arquivos do Projeto
 - `Gerador de dataset de máquinas.ipynb`: Script de geração dos dados
