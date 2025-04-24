@@ -15,7 +15,7 @@ A ideia foi analisar qual máquina entrega mais produção consumindo menos ener
 ## 🧰 Ferramentas Utilizadas
 
 - **Python** → Para gerar e formatar os dados.
-- **Pandas & NumPy** → Para manipulação dos dados.
+- **Pandas** → Para manipulação dos dados.
 - **Power BI** → Para visualização e análise.
 - **ChatGPT** → Apoio para tirar dúvidas, melhorar partes do código e formatar a estética desta documentação, mas toda a lógica e estrutura foram feitas por mim.
 
