@@ -60,7 +60,7 @@ A ideia foi analisar qual máquina entrega mais produção consumindo menos ener
 ## ✉️ Contato
 
 Se quiser trocar ideia ou tiver alguma sugestão, estou por aqui!  
-📧 [Seu e-mail ou LinkedIn]  
+📧 [https://www.linkedin.com/in/jo%C3%A3o-pedro-chagas-b64a441ba/]  
 📍 Salvador - BA | Estudante de Engenharia Mecânica e futuro analista de dados 😄
 
 ---
