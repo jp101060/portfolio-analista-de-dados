@@ -7,7 +7,7 @@
 - **SQL**: Consultas complexas, otimização de queries, joins.  
 
 ## 🛠 Projetos Destacados  
-**Análise de eficiência de máquinas**
+- **Análise de eficiência de máquinas**
 ## 📞 Contato  
 - LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-pedro-chagas-b64a441ba/
 - E-mail: jpedro152002@gmail.com
