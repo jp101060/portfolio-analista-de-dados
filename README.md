@@ -5,7 +5,7 @@
 - **Excel**: Dashboards, tabelas dinâmicas, funções avançadas (VLOOKUP, INDEX/MATCH).  
 - **Power BI**: Modelagem de dados, DAX, visualizações interativas.  
 - **SQL**: Consultas complexas, otimização de queries, joins.  
-
+- **Python**: Pandas, Numpy, sqlalchemy, psycopg2, matplotlib, seaborn 
 ## 🛠 Projetos Destacados  
 - **Análise de eficiência de máquinas**
 ## 📞 Contato  
