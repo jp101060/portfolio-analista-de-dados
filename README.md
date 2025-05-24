@@ -8,6 +8,7 @@
 - **Python**: Pandas, Numpy, Sqlalchemy, Psycopg2, Matplotlib, Seaborn.
 ## 🛠 Projetos Destacados  
 - **Análise de eficiência de máquinas**
+- **Análise de Risco de Crédito: Identificação de Clientes com Alta Probabilidade de Inadimplência**
 ## 📞 Contato  
 - LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-pedro-chagas-b64a441ba/
 - E-mail: jpedro152002@gmail.com
